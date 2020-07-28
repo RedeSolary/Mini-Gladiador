@@ -1,0 +1,8 @@
+name: MiniGladiador
+version: 1.0-SNAPSHOT
+main: br.kaiosouza.minigladiador.SolaryMiniGladiador
+author: Aureom
+depend: [SimpleClans, Vault]
+commands:
+  minigladiador:
+      aliases: [miniglad, mg]
